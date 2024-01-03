@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+    <div id="navbar">
+        <div id="logo"></div>
+        <p>OMICT</p>
+        <a>Home</a>
+        <a>About</a>
+        <a id="search">Same</a>
+        <form class="example" action="action_page.php">
+            <input type="text" placeholder="Search.." name="search">
+            <button>CLICK</button>
+        </form>
+    </div>
+</body>
+</html>
